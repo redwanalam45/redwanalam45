@@ -1,4 +1,4 @@
-## Hello guys, I'm Redwan 👋
+## Hey, I’m Redwan Alam 👋
 
 - 🎓 Undergrad CSE student at Jahangirnagar University
 - 💻 Learning C++, Java & Data Structures
