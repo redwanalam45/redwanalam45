@@ -15,3 +15,8 @@
 **Languages:** C, C++, Java  
 **Tools:** VS Code, Git, GitHub, Arduino IDE 
 
+---
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=redwanalam45&show_icons=true)
+
+
