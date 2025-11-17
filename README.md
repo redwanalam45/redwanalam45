@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello guys, I'm Redwan 👋
 
-<!--
-**redwanalam45/redwanalam45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Undergrad CSE student at Jahangirnagar University
+- 💻 Learning C++, Java & Data Structures
+- 🔧 Beginner in ESP32 & Arduino
 
-Here are some ideas to get you started:
+- ---
+## 🔥 About Me
+- 🤸 Enjoy robotics projects and tinkering with ESP32/Arduino
+- 🧩 Practicing C++ & Java through problem solving
+- 📚 Love learning new tech and solving problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ---
+## 🛠 Tech Stack
+**Languages:** C, C++, Java  
+**Tools:** VS Code, Git, GitHub, Arduino IDE 
+
